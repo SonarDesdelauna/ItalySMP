@@ -22,7 +22,8 @@
         "it"
     ],
     "gameTypes": [
-        "SMP"
+        "Survival",
+        "PvP"
     ],
     "socials": {
         "discord": "https://discord.gg/italysmp"
